@@ -1,0 +1,8 @@
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\bin\Debug\SQLrestoreAPP.exe.config
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\bin\Debug\SQLrestoreAPP.exe
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\bin\Debug\SQLrestoreAPP.pdb
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\obj\Debug\SQLrestoreAPP.csprojResolveAssemblyReference.cache
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\obj\Debug\SQLrestoreAPP.exe
+c:\users\sai\documents\visual studio 2017\Projects\SQLrestoreAPP\SQLrestoreAPP\obj\Debug\SQLrestoreAPP.pdb
